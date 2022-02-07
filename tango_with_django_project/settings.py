@@ -133,3 +133,6 @@ MEDIA_URL = '/media/'
 
 
 LOGIN_URL = 'rango:login'
+
+
+#SESSION_EXPIRE_AT_CLOSE = True
